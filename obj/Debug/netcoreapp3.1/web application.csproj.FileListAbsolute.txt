@@ -1,0 +1,12 @@
+/Users/Rameez/Documents/web application/bin/Debug/netcoreapp3.1/web application.deps.json
+/Users/Rameez/Documents/web application/bin/Debug/netcoreapp3.1/web application.runtimeconfig.json
+/Users/Rameez/Documents/web application/bin/Debug/netcoreapp3.1/web application.runtimeconfig.dev.json
+/Users/Rameez/Documents/web application/bin/Debug/netcoreapp3.1/web application.dll
+/Users/Rameez/Documents/web application/bin/Debug/netcoreapp3.1/web application.pdb
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.csprojAssemblyReference.cache
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.AssemblyInfoInputs.cache
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.AssemblyInfo.cs
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.csproj.CoreCompileInputs.cache
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.dll
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.pdb
+/Users/Rameez/Documents/web application/obj/Debug/netcoreapp3.1/web application.genruntimeconfig.cache
